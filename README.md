@@ -1,70 +1,134 @@
-# Getting Started with Create React App
+# 👋 Hi, I'm Mufarraj
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+💻 Full Stack Developer  
+🌐 PHP | MySQL | JavaScript | Python  
+🚀 Building practical web applications and management systems
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 👨‍💻 About Me
 
-### `npm start`
+I am a passionate Full Stack Developer interested in building useful real-world applications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I mainly work with:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Bootstrap
+- Git & GitHub
 
-### `npm test`
+I enjoy developing systems for schools, restaurants, supermarkets, businesses, and organizations.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Skills & Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Backend
 
-### `npm run eject`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Database
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Tools
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 My Projects
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🏫 Student Information System
+A school management system for managing:
 
-### Code Splitting
+- Students
+- Teachers
+- Attendance
+- Marks
+- Reports
+- User accounts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 📅 Timetable Management System
+A system for creating and managing school timetables.
 
-### Analyzing the Bundle Size
+Features include:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Teacher timetable
+- Class timetable
+- Subject allocation
+- Teacher leave replacement
+- Relief teacher management
 
-### Making a Progressive Web App
+### 🍽️ Restaurant Management System
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Includes:
 
-### Advanced Configuration
+- POS
+- Orders
+- Kitchen Order Tickets
+- Billing
+- Product management
+- Reports
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 🛒 Supermarket Management System
 
-### Deployment
+Includes:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Product management
+- Stock control
+- Billing
+- Offers
+- Customer management
+- Sales reports
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📚 Currently Learning
+
+- Advanced PHP
+- MySQL
+- Python
+- API Development
+- AI Integration
+- Full Stack Web Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufarrajifo-rgb&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufarrajifo-rgb&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mufarrajifo-rgb)
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+
+https://github.com/mufarrajifo-rgb
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
